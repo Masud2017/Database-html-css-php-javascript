@@ -1,0 +1,99 @@
+.frame {
+
+	background-color:orange;
+	border:2px solid black;
+	text-align: center;
+	padding:10px;
+	width : 50%;
+	margin-left:25%;
+	margin-top:15%;
+}
+
+.width {
+	width:50%;
+	background-color:green;
+	border:none;
+	height:50px;
+
+}
+.widthe {
+	width:50%;
+	height:30px;
+	background-color: skyblue;
+	background-color:rgb(0,0,0,.56);
+	color:white;
+}
+ .submit:hover {
+	background-color:white;
+	border:1px solid black;
+}
+
+.footer {
+	background-color:orange;
+	border:2px solid black;
+	text-align: center;
+	padding:10px;
+	width : 50%;
+	margin-left:25%;
+	margin-top:10%;
+
+}
+
+.frame {
+
+	background-color:orange;
+	border:2px solid black;
+	text-align: center;
+	padding:10px;
+	width : 50%;
+	margin-left:25%;
+	margin-top:15%;
+}
+
+.width {
+	width:50%;
+	background-color:green;
+	border:none;
+	height:50px;
+
+}
+.widthe {
+	width:50%;
+	height:30px;
+	background-color: skyblue;
+	background-color:rgb(0,0,0,.56);
+	color:white;
+}
+ .submit:hover {
+	background-color:white;
+	border:1px solid black;
+}
+
+.footer {
+	background-color:orange;
+	border:2px solid black;
+	text-align: center;
+	padding:10px;
+	width : 50%;
+	margin-left:25%;
+	margin-top:10%;
+
+}
+
+input[type="text"] {
+
+	color:white;
+}
+.heading{
+
+	background-color:yellow;
+	color:red;
+	font-family:"san serif" "Times new roman";
+	text-shadow:1px 2px black;
+
+
+}
+body{
+
+	background-color:gray;
+}
