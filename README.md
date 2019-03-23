@@ -5,3 +5,4 @@ Languages : html,css,php,Javascript, sql(including very soon)
 
 If you want to this site which is live on : http://techtrickpedia.000webhostapp.com/
 Go ahead and check my creation .. 
+Website name : Techtrickpedi
